@@ -10,7 +10,8 @@ public class MainActivity extends AppCompatActivity {
     // this is new branch
     // this is the second comment
     //I'm done
-    // new comment
+    // new comment\
+    int num = 9 ;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
